@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/main.py
+src/yolov11_det/__init__.py
+src/yolov11_det/yolov11_det.py
+src/yolov11_det_pytorch.egg-info/PKG-INFO
+src/yolov11_det_pytorch.egg-info/SOURCES.txt
+src/yolov11_det_pytorch.egg-info/dependency_links.txt
+src/yolov11_det_pytorch.egg-info/requires.txt
+src/yolov11_det_pytorch.egg-info/top_level.txt

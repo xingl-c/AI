@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: yolov11-det-pytorch
+Version: 0.1.0
+Summary: YOLOv11Det based ultralytics
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: ultralytics>=8.3.184
