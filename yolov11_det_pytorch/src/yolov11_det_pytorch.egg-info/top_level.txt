@@ -1,2 +1,0 @@
-main
-yolov11_det
